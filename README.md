@@ -1,2 +1,2 @@
 # tumblr
-Tumblr features snippets. A work in progress library.
+Tumblr theme feature's snippets. A work in progress library.
