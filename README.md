@@ -1,5 +1,5 @@
 # tumblr
-Tumblr theme feature's snippets. A work in progress library.
+Tumblr `custom theme` feature's snippets. A work in progress library.
 
 Note: this is an ongoing workspace. View any releases for code snippets that are functioning for use.
 
