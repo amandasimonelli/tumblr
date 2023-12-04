@@ -1,5 +1,7 @@
 # tumblr
 Tumblr `custom theme` feature's snippets. A work in progress library.
+
+## Attribution
 If using any of these snippets in your theme development, please credit `Amanda Simonelli` at [https://www.amandasimonelli.com](https://www.amandasimonelli.com) in your theme header.
 
 Note: this is an ongoing workspace. View any releases for code snippets that are functioning for use.
